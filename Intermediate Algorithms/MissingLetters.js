@@ -1,6 +1,6 @@
 
 function fearNotLetter(str) {
-  return str;
+  return stmyArr;
 }
 
 fearNotLetter("abce");
